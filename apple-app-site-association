@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+    {
+      "appID": "BZA6SZ8XVQ.test.byndid.universalUrlTest",
+      "paths": ["*"]
+    }
+    ]
+  }
+}
