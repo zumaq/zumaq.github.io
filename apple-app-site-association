@@ -5,6 +5,10 @@
     {
       "appID": "BZA6SZ8XVQ.test.byndid.universalUrlTest",
       "paths": ["*"]
+    },
+    {
+      "appID": "BZA6SZ8XVQ.test.byndid.universalUrlTestiOS2",
+      "paths": ["*"]
     }
     ]
   }
